@@ -9,7 +9,7 @@ Welcome to **ACM at UC San Diego's Wiki!**
 
 ## Quick Navigation
 
-Are you a new Board member or seeking general board info? [**Start here.**](https://github.com/acmucsd/wiki/wiki/Board)
+Are you a new Board member or seeking general board info? [**Start here.**](resources/board-member-list.md)
 
 Otherwise, feel free to click on one of the below links to jump to your role.
 
