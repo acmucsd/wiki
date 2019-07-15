@@ -9,5 +9,5 @@ The Marketing Team will go ahead and advertise your events on one of three socia
 ## Photography
 The Marketing Team can provide you with photographers for your event, in the case that you do not have your own camera. If you have a Google Pixel, iPhone, or phone of similar camera quality or if you have your own camera, it is suggested that you take pictures yourself if you are not too preoccupied with hosting the event (e.g. workshop hosts). These pictures should be uploaded to your events folder later where the Marketing Team will then transfer them to Flickr.
 
-To request any of the above marketing, fill out the [Marketing Request Form.](https://docs.google.com/forms/d/e/1FAIpQLSeiKIX3k5j_X88jLjzSl4wgE8YL78GvEwZAMJ2Y4B0kp9jRKA/viewform?usp=sf_link). If you only need one or two of the above three, just skip that section entirely.
+To request any of the above marketing, fill out the [Marketing Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeiKIX3k5j_X88jLjzSl4wgE8YL78GvEwZAMJ2Y4B0kp9jRKA/viewform?usp=sf_link). If you only need one or two of the above three, just skip that section entirely.
 
