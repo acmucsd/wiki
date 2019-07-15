@@ -48,7 +48,6 @@
 * [Teams](ovpe/team.md)
   * [Marketing](ovpe/marketing/about.md)
   * [Communications](ovpe/communications/about.md)
-    * []
 
 ## Finance
 * [About](ovpf/about.md)
