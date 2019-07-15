@@ -32,7 +32,6 @@
 * [Office of the President](president/about.md)
 * [Team Structure](president/team-structure.md)
 * [Guide](president/guide.md)
-* [Relevant Links](president/relevant-links.md)
 
 ## Membership
 
@@ -48,7 +47,7 @@
   * [Events](internal/teams/events/README.md)
     * [Ideas](internal/teams/events/ideas.md)
     * [Funding](internal/teams/events/funding.md)
-* [Ideas](internal/ideas.md)
+* [Project Ideas](internal/project-ideas.md)
 
 ## External
 
