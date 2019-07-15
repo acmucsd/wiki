@@ -1,4 +1,4 @@
-# Introduction
+# Home
 
 Welcome to **ACM at UC San Diego's Wiki!**   
   
@@ -26,16 +26,16 @@ Otherwise, feel free to click on one of the below links to jump to your role.
 Note that these are shortened responses. The full FAQ is available here.
 
 * [What is ACM?](https://github.com/acmucsd/wiki/wiki/What-is-ACM%3F)
-* [What is ACM's structure?](./)
-* [What are ACM Members?](./)
-* [What are my responsibilities](./)
-* [How can I get money for something?](./)
-* [How do I book rooms for meetings?](./)
-* [How do I book rooms for events?](./)
-* [How do I get marketing materials for events?](./)
-* [I want to refer a company contact as a sponsor!](./)
-* [I want to refer my friend to ACM Board!](./)
-* [I have a cool idea I want to pursue!](./)
+* [What is ACM's structure?](home.md)
+* [What are ACM Members?](home.md)
+* [What are my responsibilities](home.md)
+* [How can I get money for something?](home.md)
+* [How do I book rooms for meetings?](home.md)
+* [How do I book rooms for events?](home.md)
+* [How do I get marketing materials for events?](home.md)
+* [I want to refer a company contact as a sponsor!](home.md)
+* [I want to refer my friend to ACM Board!](home.md)
+* [I have a cool idea I want to pursue!](home.md)
 
 Still have questions?
 
@@ -67,7 +67,5 @@ For a fast response, post in `#board` on the **ACM Discord** or **ACM Casual Mes
 
 ## Social Media
 
-| Facebook | Instagram | LinkedIn | Discord | Medium |
-| :--- | :--- | :--- | :--- | :--- |
-
+\| Facebook \| Instagram \| LinkedIn \| Discord \| Medium \| \| --------- \| ---------- \| -------- \| -------------- \| ------- \|
 

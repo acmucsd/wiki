@@ -1,9 +1,0 @@
-Globally
-*
-*
-*
-
-UC San Diego
-* 
-* 
-* 

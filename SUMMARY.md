@@ -1,54 +1,65 @@
-# Table of Contents
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Overview
-* [Home](overview/Home.md)
-* [What is ACM?](overview/What-is-ACM.md)
-* [Mission and Goals](overview/Mission-and-Goals.md)
-* [Culture](overview/Culture.md)
-* [Structure](overview/Board-Structure.md)
-* [Jargon](overview/Jargon.md)
-* [FAQ](overview/Frequently-Asked-Questions.md)
+
+* [Home](overview/home.md)
+* [What is ACM?](overview/what-is-acm.md)
+* [Mission and Goals](overview/mission-and-goals.md)
+* [Culture](overview/culture.md)
+* [Structure](overview/board-structure.md)
+* [Jargon](overview/jargon.md)
+* [FAQ](overview/frequently-asked-questions.md)
 
 ## Resources
-* [Account List](resources/Account-List.md)
-* [Board Member List](resources/Board-Member-List.md)
-* [Calendar](resources/Calendar.md)
-* [Contacts](resources/Contacts.md)
-* [Grow](resources/Grow.md)
-* [Fun](resources/Fun.md)
-* [Finance Request](resources/Finance-Request.md)
-* [Logistics Request](resources/Logistics-Request.md)
-* [Marketing Request](resources/Marketing-Request.md)
+
+* [Account List](resources/account-list.md)
+* [Board Member List](resources/board-member-list.md)
+* [Calendar](resources/calendar.md)
+* [Contacts](resources/contacts.md)
+* [Grow](resources/grow.md)
+* [Fun](resources/fun.md)
+* [Finance Request](resources/finance-request.md)
+* [Logistics Request](resources/logistics-request.md)
+* [Marketing Request](resources/marketing-request.md)
 
 ## Board
-* [About](board/About.md)
+
+* [About](board/about.md)
 
 ## President
-* [Role](op/about.md)
-* [Team Structure]()
-* [Guide]()
-* [Relevant Links]()
+
+* [Role](president/about.md)
+* [Team Structure](president/team-structure.md)
+* [Guide](president/guide.md)
+* [Relevant Links](president/relevant-links.md)
 
 ## Membership
-* [About](ovpm/about.md)
-* [Teams](ovpm/team.md)
-	* [Development](ovpm/development/about.md)
-  * [Social](ovpm/social/about.md)
+
+* [About](membership/about.md)
+* [Teams](membership/teams/README.md)
+  * [Development](membership/teams/about.md)
+  * [Social](membership/teams/about-1.md)
 
 ## Internal
-* [About](ovpi/about.md)
-* [Teams](ovpi/team.md)
-  * [Events](ovpi/events/about.md)
-    * [Ideas](ovpi/events/ideas.md)
-    * [Funding](ovpi/events/funding.md)
-* [Ideas](ovpi/ideas.md)
+
+* [About](internal/about.md)
+* [Teams](internal/teams/README.md)
+  * [Events](internal/teams/about/README.md)
+    * [Ideas](internal/teams/about/ideas.md)
+    * [Funding](internal/teams/about/funding.md)
+* [Ideas](internal/ideas.md)
 
 ## External
-* [About](ovpe/about.md)
-* [Teams](ovpe/team.md)
-  * [Marketing](ovpe/marketing/about.md)
-  * [Communications](ovpe/communications/about.md)
+
+* [About](external/about.md)
+* [Teams](external/teams/README.md)
+  * [Marketing](external/teams/about.md)
+  * [Communications](external/teams/about-1.md)
 
 ## Finance
-* [About](ovpf/about.md)
-* [Teams](ovpf/team.md)
+
+* [About](finance/about.md)
+* [Teams](finance/teams.md)
+
