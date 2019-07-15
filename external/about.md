@@ -1,4 +1,4 @@
-# About
+# Office of the Vice President External
 
 ## Scope
 

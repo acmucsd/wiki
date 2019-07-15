@@ -14,7 +14,7 @@ The Communications Team deals with contacting all other entities outside of ACM 
 
 ## Table of Contents
 
-* [Team Structure](about-1.md)
-* [Guide](about-1.md)
-* [Relevant Links](about-1.md)
+* [Team Structure](communications.md)
+* [Guide](communications.md)
+* [Relevant Links](communications.md)
 

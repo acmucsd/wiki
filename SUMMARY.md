@@ -37,29 +37,29 @@
 
 ## Membership
 
-* [About](membership/about.md)
+* [Office of the Vice President Membership](membership/about.md)
 * [Teams](membership/teams/README.md)
-  * [Development](membership/teams/about.md)
-  * [Social](membership/teams/about-1.md)
+  * [Development](membership/teams/development.md)
+  * [Social](membership/teams/social.md)
 
 ## Internal
 
-* [About](internal/about.md)
+* [Office of the Vice President Internal](internal/about.md)
 * [Teams](internal/teams/README.md)
-  * [Events](internal/teams/about/README.md)
-    * [Ideas](internal/teams/about/ideas.md)
-    * [Funding](internal/teams/about/funding.md)
+  * [Events](internal/teams/events/README.md)
+    * [Ideas](internal/teams/events/ideas.md)
+    * [Funding](internal/teams/events/funding.md)
 * [Ideas](internal/ideas.md)
 
 ## External
 
-* [About](external/about.md)
+* [Office of the Vice President External](external/about.md)
 * [Teams](external/teams/README.md)
-  * [Marketing](external/teams/about.md)
-  * [Communications](external/teams/about-1.md)
+  * [Marketing](external/teams/marketing.md)
+  * [Communications](external/teams/communications.md)
 
 ## Finance
 
-* [About](finance/about.md)
+* [Office of the Vice President Finance](finance/about.md)
 * [Teams](finance/teams.md)
 
