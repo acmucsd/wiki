@@ -15,18 +15,18 @@ Otherwise, feel free to click on one of the below links to jump to your role.
 
 | Executive | Membership | Internal | External | Finance |
 | :--- | :--- | :--- | :--- | :--- |
-| [President](https://github.com/acmucsd/wiki/wiki/President) | [Dev Team](https://github.com/acmucsd/wiki/wiki/Dev-Team) | [Events](https://github.com/acmucsd/wiki/wiki/Events) | [Marketing](https://github.com/acmucsd/wiki/wiki/Marketing) |  |
-| [VPM](https://github.com/acmucsd/wiki/wiki/Membership) | [Social](https://github.com/acmucsd/wiki/wiki/Social) |  | [Communications](https://github.com/acmucsd/wiki/wiki/Communications) |  |
-| [VPI](https://github.com/acmucsd/wiki/wiki/Internal) |  |  |  |  |
-| [VPE](https://github.com/acmucsd/wiki/wiki/External) |  |  |  |  |
-| [VPF](https://github.com/acmucsd/wiki/wiki/Finance) |  |  |  |  |
+| [President](president/about.md) | [Dev Team](membership/teams/development.md) | [Events](internal/teams/events/) | [Marketing](external/teams/marketing.md) |  |
+| [VPM](membership/about.md) | [Social](membership/teams/social.md) |  | [Communications](external/teams/communications.md) |  |
+| [VPI](internal/about.md) |  |  |  |  |
+| [VPE](external/about.md) |  |  |  |  |
+| [VPF](finance/about.md) |  |  |  |  |
 
 ## Frequently Asked Questions
 
-Note that these are shortened responses. The full FAQ is available here.
+Note that these are shortened responses. The full FAQ is available [here](overview/frequently-asked-questions.md).
 
-* [What is ACM?](https://github.com/acmucsd/wiki/wiki/What-is-ACM%3F)
-* [What is ACM's structure?](./)
+* [What is ACM?](overview/what-is-acm.md)
+* [What is ACM's structure?](overview/board-structure.md)
 * [What are ACM Members?](./)
 * [What are my responsibilities](./)
 * [How can I get money for something?](./)
@@ -55,15 +55,15 @@ For a fast response, post in `#board` on the **ACM Discord** or **ACM Casual Mes
 
 ## Resources
 
-* [Account List](https://github.com/acmucsd/wiki/wiki/Account-List)
-* [Board Member List](https://github.com/acmucsd/wiki/wiki/Board-Member-List)
-* [Calendar](https://github.com/acmucsd/wiki/wiki/Calendar)
-* [Contacts](https://github.com/acmucsd/wiki/wiki/Contacts)
-* [Grow](https://github.com/acmucsd/wiki/wiki/Grow)
-* [Fun](https://github.com/acmucsd/wiki/wiki/Fun)
-* [Finance Request](https://github.com/acmucsd/wiki/wiki/Finance-Request)
-* [Logistics Request](https://github.com/acmucsd/wiki/wiki/Logistics-Request)
-* [Marketing Request](https://github.com/acmucsd/wiki/wiki/Marketing-Request)
+* [Account List](resources/account-list.md)
+* [Board Member List](resources/board-member-list.md)
+* Calendar
+* [Contacts](resources/contacts.md)
+* [Grow](resources/grow.md)
+* [Fun](resources/fun.md)
+* [Finance Request](resources/finance-request.md)
+* [Logistics Request](resources/logistics-request.md)
+* [Marketing Request](resources/marketing-request.md)
 
 ## Social Media
 

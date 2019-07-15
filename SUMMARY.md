@@ -4,7 +4,6 @@
 
 ## Overview
 
-* [Home](overview/home.md)
 * [What is ACM?](overview/what-is-acm.md)
 * [Mission and Goals](overview/mission-and-goals.md)
 * [Culture](overview/culture.md)
@@ -30,7 +29,7 @@
 
 ## President
 
-* [Role](president/about.md)
+* [Office of the President](president/about.md)
 * [Team Structure](president/team-structure.md)
 * [Guide](president/guide.md)
 * [Relevant Links](president/relevant-links.md)
