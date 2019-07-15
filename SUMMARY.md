@@ -1,84 +1,55 @@
 # Table of Contents
 
 ## Overview
-* [Home](Home.md)
-* [What is ACM?](What-is-ACM.md)
-* [Mission and Goals](hMission-and-Goals.md)
-* [Culture](/Culture.md)
-* [Structure](Board-Structure.md)
-* [Jargon](Jargon.md)
-* [FAQ](Frequently-Asked-Questions.md)
+* [Home](overview/Home.md)
+* [What is ACM?](overview/What-is-ACM.md)
+* [Mission and Goals](overview/Mission-and-Goals.md)
+* [Culture](overview/Culture.md)
+* [Structure](overview/Board-Structure.md)
+* [Jargon](overview/Jargon.md)
+* [FAQ](overview/Frequently-Asked-Questions.md)
 
 ## Resources
-* [Account List](Account-List.md)
-* [Board Member List](Board-Member-List.md)
-* [Calendar](Calendar.md)
-* [Contacts](Contacts.md)
-* [Grow](Grow.md)
-* [Fun](Fun.md)
-* [Finance Request](Finance-Request.md)
-* [Logistics Request](Logistics-Request.md)
-* [Marketing Request](Marketing-Request.md)
+* [Account List](resources/Account-List.md)
+* [Board Member List](resources/Board-Member-List.md)
+* [Calendar](resources/Calendar.md)
+* [Contacts](resources/Contacts.md)
+* [Grow](resources/Grow.md)
+* [Fun](resources/Fun.md)
+* [Finance Request](resources/Finance-Request.md)
+* [Logistics Request](resources/Logistics-Request.md)
+* [Marketing Request](resources/Marketing-Request.md)
 
 ## Board
-* [Role](Board.md)
+* [About](board/About.md)
 
 ## President
-* [Role](President.md)
+* [Role](op/about.md)
 * [Team Structure]()
 * [Guide]()
 * [Relevant Links]()
 
 ## Membership
-* [Role](Membership.md)
-* [Team Structure]()
-* [Guide]()
-* [Relevant Links]()
+* [About](ovpm/about.md)
+* [Teams](ovpm/team.md)
+	* [Development](ovpm/development/about.md)
+  * [Social](ovpm/social/about.md)
 
 ## Internal
-* [Role](Internal.md)
-* [Team Structure]()
-* [Guide]()
-* [Relevant Links]()
+* [About](ovpi/about.md)
+* [Teams](ovpi/team.md)
+  * [Events](ovpi/events/about.md)
+    * [Ideas](ovpi/events/ideas.md)
+    * [Funding](ovpi/events/funding.md)
+* [Ideas](ovpi/ideas.md)
 
 ## External
-* [Role](External.md)
-* [Team Structure]()
-* [Guide]()
-* [Relevant Links]()
+* [About](ovpe/about.md)
+* [Teams](ovpe/team.md)
+  * [Marketing](ovpe/marketing/about.md)
+  * [Communications](ovpe/communications/about.md)
+    * []
 
 ## Finance
-* [Role](Finance.md)
-* [Team Structure]()
-* [Guide]()
-* [Relevant Links]()
-
-## Dev Team
-* [Role](Dev-Team.md)
-* [Team Structure]()
-* [Guide]()
-* [Relevant Links]()
-
-## Social
-* [Role](Social.md)
-* [Team Structure]()
-* [Guide]()
-* [Relevant Links]()
-
-## Events
-* [Role](Events.md)
-* [Team Structure]()
-* [Guide]()
-* [Relevant Links]()
-
-## Marketing
-* [Role](Marketing.md)
-* [Team Structure]()
-* [Guide]()
-* [Relevant Links]()
-
-## Communications
-* [Role](Communications.md)
-* [Team Structure]()
-* [Guide]()
-* [Projects]()
+* [About](ovpf/about.md)
+* [Teams](ovpf/team.md)
