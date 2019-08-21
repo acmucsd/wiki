@@ -15,9 +15,9 @@ Otherwise, feel free to click on one of the below links to jump to your role.
 
 | Executive | Membership | Internal | External | Finance |
 | :--- | :--- | :--- | :--- | :--- |
-| [President](president/about.md) | [Dev Team](membership/teams/development.md) | [Events](internal/teams/events/) | [Marketing](external/teams/marketing.md) |  |
+| [President](president/about.md) | [Dev Team](membership/teams/development.md) | [Events](internal/teams/events/) | [General](external/about.md) |  |
 | [VPM](membership/about.md) | [Social](membership/teams/social.md) |  | [Communications](external/teams/communications.md) |  |
-| [VPI](internal/about.md) |  |  |  |  |
+| [VPI](internal/about.md) |  |  | [Marketing](external/teams/marketing.md) |  |
 | [VPE](external/about.md) |  |  |  |  |
 | [VPF](finance/about.md) |  |  |  |  |
 
