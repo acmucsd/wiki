@@ -59,6 +59,7 @@ As VPI, you gotta know your stuff. By the end of the year you will know the reso
     * Booking in these rooms is free and they offer a great variety of room sizes, but we can only book 4 rooms at once.
     * AV for book events is $200-300, which can be covered by AS funding.
     * _People to know:_
+      * Jenny Kressel - CSI Student Org Advisor, email her on TAP, phone number is 858-534-0789. You will most likely be emailing her when you have to ask a question / have an update on TAP.
       * Brook Falkenstein - University Centers Tech Dude, email him at [bfalkenstein@ucsd.edu]() or schedule a meeting with him in order to figure out AV costs for University Centers events.
       * Rosalie Celestial - University Centers Event Services Coordinator, email her at [rcelestial@ucsd.edu]() to meet with her for planning the layout of the room.
   * [Fung Auditorium](https://docs.google.com/forms/d/e/1FAIpQLSck40g1qVgYAe1RY8OcgZI7wz7za85Bx9wx4FGTB0E0epdkag/viewform?formkey=dGpCdnNnaXBtWUxNd21tYzVRN0NaTUE6MQ#gid=0)
@@ -70,12 +71,11 @@ As VPI, you gotta know your stuff. By the end of the year you will know the reso
 * [TAP](http://tap.ucsd.edu/portal/)
   * You thought the Funding request was a lengthy boi?
   * [How to TAP](https://docs.google.com/document/d/1a_hzp-xP4j2hA3mzfBrowCtDnMVXdE94b334ky_Ete4/edit?usp=sharing)
-    * A guide written by the first VPI (me).
+    * A guide written by the founding VPI (me).
 * [Google Calendar](https://calendar.google.com)
   * This is just for general college planning. Google Calendar is a lifesaver.
-* [Monday](https://acmucsd.monday.com/)
-  * ACM's super useful online task management web application.
-  * Helps keep you organized with all of the things you have to take care of as VPI.
-  * Don't sync with Google Calendar.
+* [Notion](https://www.notion.so/acmucsd/)
+  * ACM's super useful online event management web application.
+  * Lays out all of the events in a calendar format so you can be ready X weeks in advance.
 * [TESC Funding](https://tesc.ucsd.edu/orgs/finance)
   * Get funding from TESC if AS doesn't work out.
