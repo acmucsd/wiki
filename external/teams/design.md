@@ -22,3 +22,5 @@ ACM Design team currently functions to create graphics and maintain the brand pr
 
 [4.25 x 5.5 inches](https://universitycenters.ucsd.edu/services/Table-Tent-policy.html)
 
+408px x 528px 
+
