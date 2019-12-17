@@ -53,6 +53,7 @@
 
 * [Office of the Vice President External](external/about.md)
 * [Teams](external/teams/README.md)
+  * [Design](external/teams/design.md)
   * [Marketing - PR](external/teams/marketing.md)
   * [Communications](external/teams/communications.md)
 
