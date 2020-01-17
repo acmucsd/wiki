@@ -60,7 +60,23 @@ If a graphic type doesn't exist, contact ACM Design to get a graphic made: [http
 8. Department Emails
    1. Every major gets emails from their department — We should use these for big events to promote them
 
+### Making Graphics
 
+Go to figma.com
+
+
+
+Login with Google
+
+email: acmucsd@gmail.com
+
+password: ZQ2DSHxn5Pq4z4s
+
+
+
+Go to Marketing Design System
+
+* make a graphic from there
 
 
 
