@@ -72,6 +72,8 @@ email: acmucsd@gmail.com
 
 password: ZQ2DSHxn5Pq4z4s
 
+recovery email: antonyhnguyen98@gmail.com
+
 
 
 Go to Marketing Design System
